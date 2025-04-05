@@ -8,7 +8,7 @@ export default axios.create({
   params: {
     part: "snippet",
     type: "video",
-    maxResult: 5,
+    maxResult: 6,
     // javascript here no need {} as it is not JSX
     key: KEY,
   },
